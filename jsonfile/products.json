@@ -1,0 +1,72 @@
+[
+  {
+    "id": 3,
+    "name": "Laptop Backpack",
+    "ratings": 4,
+    "image": [
+      "https://urbanjungle.shop/cdn/shop/products/45_Degree_Angle_1_3841f29f-f30f-43db-b366-3930bc3b1071.jpg?v=1744619981&width=1200",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ2wM-Gs5rAPVAH6hk6FVikTBucWC2al0a2SrRrbK6pl-NSnSD7MCNe1EmGNi5OszIoQ-tulb0QT3jUVY4zFgHKIV8HVwR2SYNHQu5Q3G-ZRrAIeZ_vtmNCcA",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQe720p26IOQBUlZw1Q7jpE9_BGcGFjPEG6vc6JjEj5KBY-5Vk8g49wI1Yh9JDP3unZgln5EyKYadMWLoMd7rj-D_xu840Ep0bI9HK6DIFeBGeLmmkL8yJmDw"
+    ],
+    "variants": [
+      { "name": "15-inch", "price": 899, "mrp": 1099, "quantity": 5 },
+      { "name": "17-inch", "price": 999, "mrp": 1249, "quantity": 5 }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Gym Duffle",
+    "ratings": 3,
+    "image": [
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQEe7BigFeWU0wKq5Qo3w3ajM-WfdbeKNgenaukJGMvIJciyLyQ4cwwzU-1VgMeXQD9EZMYfLttzicS9ng-xNq9f6dqEE3_dtbjHZx3bUP6JNeAkzPuVgEksFU",
+      "https://arcticfox.com/cdn/shop/files/Color_Duffle1200_1.jpg?v=1723536100",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQbro2yyIL8E3rmTRQFQWgWjow3zwhwMGfljyhcgbBQoUNfP-wKMFpHq7WSeQunFUj81lF93oGcy_Z5Kd7_2R6mzv4cIFpV--NhyZhknrKVvsSdoneyttO9Pug"
+    ],
+    "variants": [
+      { "name": "Standard", "price": 499, "mrp": 649, "quantity": 5 },
+      { "name": "XL", "price": 649, "mrp": 799, "quantity": 5 }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "School Backpack",
+    "ratings": 5,
+    "image": [
+      "https://m.media-amazon.com/images/I/81d3Q9eqVNL._SX679_.jpg",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSJecrPUsJ04tVE9oiB3iGE8NM-bLioXB49wO326U3AvyGU9ulwuLr7Fq5XnwWTOQjjcDOO46ogRoFIbCWEUuIkvyITYIl_mBYlx_MjpU6n_sz_UZUA4dsG",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSlQB749i_EeU2zK6vijY8QMihjWb9CZlNShOqOQU1eeV6O--NqtfYZGLzKrdRG7CBBlXt9xbg-mR_-Ecz9dlspGylO0KNCNy2J69IEoLyXmSU2Jnf4xByQCA"
+    ],
+    "variants": [
+      { "name": "Junior", "price": 299, "mrp": 499, "quantity": 5 },
+      { "name": "Senior", "price": 449, "mrp": 599, "quantity": 5 }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Hiking Rucksack",
+    "ratings": 4,
+    "image": [
+      "https://m.media-amazon.com/images/I/81a-o9BUKPL._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/81C4Ix5vbQL._SY879_.jpg",
+      "https://carrypro.in/cdn/shop/files/Hobo40OG-1080X1350_1.jpg?v=1711703956&width=1000"
+    ],
+    "variants": [
+      { "name": "30L", "price": 699, "mrp": 899, "quantity": 5 },
+      { "name": "50L", "price": 899, "mrp": 1199, "quantity": 5 }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Messenger Bag",
+    "ratings": 3,
+    "image": [
+      "https://images.dailyobjects.com/marche/product-images/1202/ivory-navy-commute-messenger-medium-images/Ivory-Navy-Commute-Messenger-Medium.png?tr=cm-pad_resize,v-3,w-720,h-730,dpr-2",
+      "https://m.media-amazon.com/images/I/41RWehViV0L._SY300_SX300_.jpg",
+      "https://movewithcarlton.com/cdn/shop/files/1_06117f47-03e9-4cd5-bc27-009c1a4522c1.jpg?v=1701266187&width=2400"
+    ],
+    "variants": [
+      { "name": "Leather", "price": 1099, "mrp": 1399, "quantity": 5 },
+      { "name": "Canvas", "price": 799, "mrp": 999, "quantity": 5 }
+    ]
+  }
+]
